@@ -41,9 +41,9 @@ python3 -m pip install -U https://github.com/Rapptz/discord.py/archive/master.zi
 or the more long winded from cloned source:
 
 ```
-$ git clone https://github.com/Rapptz/discord.py
+$ git clone https://github.com/THEGUY3ds/discord.py
 $ cd discord.py
-$ python3 -m pip install -U .[voice]
+$ py -m pip install -U .[voice]
 ```
 
 Please note that on Linux installing voice you must install the following packages via your favourite package manager (e.g. `apt`, `yum`, etc) before running the above command:
