@@ -35,7 +35,7 @@ python3 -m pip install -U discord.py[voice]
 To install the development version, do the following:
 
 ```
-python3 -m pip install -U https://github.com/Rapptz/discord.py/archive/master.zip#egg=discord.py[voice]
+python3 -m pip install -U https://github.com/THEGUY3ds/discord.py/archive/master.zip#egg=discord.py[voice]
 ```
 
 or the more long winded from cloned source:
